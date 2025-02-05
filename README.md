@@ -7,6 +7,11 @@ In simple terms - control flow is the order in which instructions are executed w
 * Know that conditional statements can have only one ```if``` and one ```else``` statement.
 * Identify that conditional statements can be nested.
 
+* Know how to write a while loop and a for loop.
+* Know how to convert a for loop into a while loop.
+* Know that index variables conventionally start at zero.
+* Explain what an iteration is.
+
 ## A Quick Word on Syntax
 Before we get started we'll quickly go over the terms we'll be using to represent syntax.
 
