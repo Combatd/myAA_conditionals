@@ -12,6 +12,13 @@ In simple terms - control flow is the order in which instructions are executed w
 * Know that index variables conventionally start at zero.
 * Explain what an iteration is.
 
+* Write arrays using correct syntax
+* Identify that an array is an ordered list of values defined by using square brackets ([ ])
+* Use .length to obtain a count of the numbers of elements that comprise an array
+* Index an array to refer to a single value
+* Concatenate multiple arrays together
+* Add and remove items from an array
+
 ## A Quick Word on Syntax
 Before we get started we'll quickly go over the terms we'll be using to represent syntax.
 
