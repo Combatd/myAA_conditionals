@@ -4,10 +4,11 @@ and returns a new array where every element of the original array is multiplied 
 */
 
 function doubler(numbers) {
+  let doubledArray = []
   for (let i = 0; i < numbers.length; i++) {
-    numbers[i] = numbers[i] * 2; // reassign the element value
+    doubledArray[i] = numbers[i] * 2;
   }
-  return numbers;
+  return doubledArray;
 }
 
 console.log(doubler([1, 2, 3, 4])); // => [2, 4, 6, 8]
